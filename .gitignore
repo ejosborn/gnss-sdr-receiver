@@ -1,0 +1,17 @@
+# C++
+build/
+run.sh
+build.sh
+*.o
+*.a
+*.out
+*.exe
+exe
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#VS Code
+.vscode/
+
